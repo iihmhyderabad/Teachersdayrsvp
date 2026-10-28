@@ -69,15 +69,7 @@ export default function Home() {
             href="/admin"
             className="p-3.5 rounded-2xl bg-white border border-gold/20 hover:border-gold shadow-2xs text-left transition-all flex items-center justify-between group"
           >
-            <div>
-              <p className="text-xs font-semibold text-maroon group-hover:underline flex items-center gap-1">
-                <Lock className="w-3 h-3" />
-                <span>Organiser Admin Desk</span>
-              </p>
-              <p className="text-[11px] text-charcoal-muted mt-0.5">
-                Live attendance dashboard & exports
-              </p>
-            </div>
+           
             <ShieldCheck className="w-4 h-4 text-maroon shrink-0" />
           </Link>
         </div>
