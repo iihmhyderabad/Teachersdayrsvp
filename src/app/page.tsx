@@ -67,8 +67,7 @@ export default function Home() {
           {/* Organiser Desk Login */}
          
            
-            <ShieldCheck className="w-4 h-4 text-maroon shrink-0" />
-          </Link>
+           
         </div>
       </div>
 
