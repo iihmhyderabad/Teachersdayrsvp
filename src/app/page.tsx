@@ -65,10 +65,7 @@ export default function Home() {
           </Link>
 
           {/* Organiser Desk Login */}
-          <Link
-            href="/admin"
-            className="p-3.5 rounded-2xl bg-white border border-gold/20 hover:border-gold shadow-2xs text-left transition-all flex items-center justify-between group"
-          >
+         
            
             <ShieldCheck className="w-4 h-4 text-maroon shrink-0" />
           </Link>
